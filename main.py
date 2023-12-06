@@ -1,0 +1,1 @@
+print("twoja jebana stara")
